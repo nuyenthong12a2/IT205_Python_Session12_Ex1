@@ -159,7 +159,7 @@ while True:
   
     elif choice == "5":
         print("\nCảm ơn bạn đã sử dụng hệ thống quản lý giỏ hàng. Tạm biệt!")
-        break  # Thoát khỏi vòng lặp while True, kết thúc chương trình
+        break  
 
    
     else:
